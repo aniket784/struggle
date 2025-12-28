@@ -1,0 +1,5 @@
+Ananya:
+Implement level 1 BG and sound, detect collision
+
+Chhavi:
+Implement level 2 BG and sound, detect collision
